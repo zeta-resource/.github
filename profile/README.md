@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome To Zeta Resource! 👋
+
+Zeta Resource is a Singapore-based outsourcing company, also an online storage. Our company is largely composed of 3 teams and all team members are faithfully fulfilling their respective roles.
+
+- Front-End Team
+- Back-End Team
+- DevOps Team
 
 <!--
 
